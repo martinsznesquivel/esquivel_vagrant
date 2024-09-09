@@ -1,0 +1,29 @@
+    1  cat read
+    2  exit
+    3  git clone https://github.com/martinsznesquivel/esquivel_vagrant.git
+    4  ls
+    5  ..
+    6  cd ..
+    7  ls
+    8  .
+    9  exit
+   10  ls
+   11  README
+   12  readme
+   13  git clone https://github.com/martinsznesquivel/esquivel_vagrant.git
+   14  ls
+   15  cat README
+   16  git status
+   17  ls
+   18  cd esquivel_vagrant/
+   19  git status
+   20  git commit -m "mi primer commit"
+   21  git config --global user.email "martinesquivel323232@gmail.com"
+   22  cd repogit/
+   23  ls
+   24  git clone git@github.com:martinsznesquivel/esquivel_vagrant.git
+   25  ls
+   26  cd esquivel_vagrant/
+   27  ls
+   28  history
+   29  history > historial.txt
